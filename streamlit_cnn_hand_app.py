@@ -18,6 +18,7 @@ import cv2
 
 import torch
 import torch.nn as nn
+from streamlit_drawable_canvas import st_canvas
 
 
 # ------------------------------------------------------------
