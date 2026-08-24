@@ -13,7 +13,7 @@ import torch
 import torch.nn as nn
 from torchvision import datasets
 import torchvision.transforms.v2 as transform
-
+from streamlit_drawable_canvas import st_canvas
 
 # ------------------------------------------------------------
 # 기본 설정
